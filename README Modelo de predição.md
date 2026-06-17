@@ -8,7 +8,7 @@ Este espaço é dedicado a armazenar meus projetos, experimentos e exercícios d
 
 Aqui você encontrará diversos Jupyter Notebooks (`.ipynb`) e bases de dados (`.csv`) separados por temas:
 
-* **🚗 Outros Modelos Preditivos**
+* ** Modelos Preditivos**
     * `modelo de predição.ipynb`: Estudo e modelagem baseada em dados de plantas.
       
 * **⚙️ Fundamentos e Bibliotecas**
