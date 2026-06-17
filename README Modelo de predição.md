@@ -8,17 +8,9 @@ Este espaço é dedicado a armazenar meus projetos, experimentos e exercícios d
 
 Aqui você encontrará diversos Jupyter Notebooks (`.ipynb`) e bases de dados (`.csv`) separados por temas:
 
-* **📈 Predição de Perda de Clientes (Churn)**
-    * `Projeto_ML_final.ipynb`: Notebook com diversos métodos de classificação aplicados.
-    * `Perda de clientes (1).csv`: Base de dados utilizada para o treinamento do modelo.
-* **🎵 Sistema de Recomendação**
-    * `Recomendador_de_musicas.ipynb`: Construção de um modelo para recomendar músicas.
-* **🩺 Análise e Redução de Dimensionalidade**
-    * `reduzir_exames.ipynb`: Projeto focado em técnicas para reduzir a quantidade de features/exames mantendo a eficácia do modelo.
-    * `exames.csv`: Dataset contendo os dados médicos utilizados na análise.
 * **🚗 Outros Modelos Preditivos**
-    * `modelo_de_carros.ipynb`: Estudo e modelagem baseada em dados de veículos.
-    * `Modelo de predição.ipynb`: Implementações recentes de modelos de previsão.
+    * `modelo de predição.ipynb`: Estudo e modelagem baseada em dados de plantas.
+      
 * **⚙️ Fundamentos e Bibliotecas**
     * `SKLearning.ipynb`: Exercícios práticos focados na biblioteca Scikit-Learn para algoritmos de classificação.
 
